@@ -1,17 +1,19 @@
-# CS50x problem sets solution
+CS50x problem sets solution
 =====================
 
 > A quick word on Harvard cs50 course's [Academic Honesty](https://cs50.harvard.edu/x/2020/honesty/). I took cs50 course and worked on implementing the solutions to course's psets in the year 2019-20. Why cs50? The primary reason was to become good at solving problems efficiently, and feel more comfortable by approaching problems logically as well as algorithmically and code the same in language C. Moreover, I intended to revise my bachelor's concepts which in turn could help me to excel not only during my Masters studies in Applied Computing but also grow more professionally. I have invested a lot of time and effort while solving the psets, and so I will advice the same to every cs enthutiasts to solve the problems by yourself instead of peeking at my solutions. Lastly, I would like to offer my sincere gratitude to entire cs50 community for making this incredible course be accessible to everyone.    
 
 ## Table of Contents
 
-- [Problem Set 1: C](/pset1)
-  * [hello](/pset1/hello)
-  * [cash](/pset1/cash)
-  * [credit](/pset1/credit)
-  * mario
-    + [less](/pset1/mario/less)
-    + [more](/pset1/mario/more)
+1. [Problem Set 1: Hello World, Pyramid, Greedy Algorithm in C](/pset1)
+    * [hello](/pset1/hello)
+    * [cash](/pset1/cash)
+    * [credit](/pset1/credit)
+    * mario
+        + [less comfortable](/pset1/mario/less)
+        + [more comfortable](/pset1/mario/more)
+
+
 - [Problem Set 2: Crypto](/pset2)
   * [caesar](/pset2/caesar)
   * [vigenere](/pset2/vigenere)
