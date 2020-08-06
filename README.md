@@ -5,7 +5,7 @@ CS50x problem sets solution
 
 ## Table of Contents
 
-1. [Problem Set 1: Hello World, Pyramid, Greedy Algorithm in C](/pset1)
+1. [Problem Set 1: Hello World, Pyramid, Greedy Algorithm in C](https://docs.cs50.net/2019/x/psets/1/index.html)
     * [hello](/pset1/hello)
     * [cash](/pset1/cash)
     * [credit](/pset1/credit)
