@@ -1,9 +1,7 @@
-CS50x — 2018 solutions
+# CS50x problem sets solution
 =====================
 
-> A quick word on [Academic Honesty](https://cs50.harvard.edu/x/2020/honesty/). While these solutions will help you to get through the course without too much effort, you should do your best to figure out a working solution yourself before taking a look at any of my solutions. Investing your time and energy into solving the problem sets yourself is in my opinion the only way to eventual mastery.
-
-Go ahead and take a peek at the solutions.
+> A quick word on Harvard cs50 course's [Academic Honesty](https://cs50.harvard.edu/x/2020/honesty/). I took cs50 course and worked on implementing the solutions to course's psets in the year 2019-20. Why cs50? The primary reason was to become good at solving problems efficiently, and feel more comfortable by approaching problems logically as well as algorithmically and code the same in language C. Moreover, I intended to revise my bachelor's concepts which in turn could help me to excel not only during my Masters studies in Applied Computing but also grow more professionally. I have invested a lot of time and effort while solving the psets, and so I will advice the same to every cs enthutiasts to solve the problems by yourself instead of peeking at my solutions. Lastly, I would like to offer my sincere gratitude to entire cs50 community for making this incredible course be accessible to everyone.    
 
 ## Table of Contents
 
@@ -50,7 +48,4 @@ Go ahead and take a peek at the solutions.
 - [Problem Set 8: Mashup](/pset8)
   * [mashup](/pset8/mashup)
 
-## Full Disclosure
-
-I worked out these solutions as part of the preparation for a CS50x course I led during winter 2018/19 in the city of Kosice, Slovakia. This way, I would like to express my gratitude for this great opportunity.
 
