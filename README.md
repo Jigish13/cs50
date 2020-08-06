@@ -10,8 +10,8 @@ CS50x problem sets solution
     * [cash](/pset1/cash)
     * [credit](/pset1/credit)
     * mario
-        + [less comfortable](/pset1/mario/less)
-        + [more comfortable](/pset1/mario/more)
+        + [less comfortable](/pset1/mario/less.c)
+        + [more comfortable](/pset1/mario/more.c)
 
 
 - [Problem Set 2: Crypto](/pset2)
