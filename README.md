@@ -16,6 +16,7 @@ CS50x problem sets solution
     - [caesar](/pset2/ceasar.c)
     - [vigenere](/pset2/vigenere.c)
     - [crack](/pset2/crack.c)
+    - [readability](/pset2/readability.c)
 - [Problem Set3: Music](/pset3)
   * [music](/pset3/music)
 - [Problem Set 4: Forensics](/pset4)
