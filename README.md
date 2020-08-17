@@ -15,9 +15,9 @@ CS50x problem sets solution
 
 
 1. [Problem Set 2: Cryptography, Brute force algorithm to crack password](https://docs.cs50.net/2019/x/psets/2/index.html)
-  * [caesar](/pset2/caesar.c)
-  * [vigenere](/pset2/vigenere.c)
-  * [crack](/pset2/crack.c)
+    * [caesar](/pset2/caesar.c)
+    * [vigenere](/pset2/vigenere.c)
+    * [crack](/pset2/crack.c)
 - [Problem Set3: Music](/pset3)
   * [music](/pset3/music)
 - [Problem Set 4: Forensics](/pset4)
