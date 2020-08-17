@@ -6,16 +6,16 @@ CS50x problem sets solution
 ## Table of Contents
 
 1. [Problem Set 1: Hello World, Pyramid, IBM's Luhn Algorithm for card validity, Greedy Algorithm in C](https://docs.cs50.net/2019/x/psets/1/index.html)
-  * [hello](/pset1/hello.c)
-  * [cash](/pset1/cash.c)
-  * [credit](/pset1/credit.c)
-  * mario
-    + [less comfortable](/pset1/mario/less.c)
-    + [more comfortable](/pset1/mario/more.c)
+    * [hello](/pset1/hello.c)
+    * [cash](/pset1/cash.c)
+    * [credit](/pset1/credit.c)
+    * mario
+      + [less comfortable](/pset1/mario/less.c)
+      + [more comfortable](/pset1/mario/more.c)
 2. [Problem Set 2: Cryptography, Brute force algorithm to crack password](https://docs.cs50.net/2019/x/psets/2/index.html)
-  * [caesar](/pset2/caesar.c)
-  * [vigenere](/pset2/vigenere.c)
-  * [crack](/pset2/crack.c)
+    - [caesar](/pset2/caesar.c)
+    - [vigenere](/pset2/vigenere.c)
+    - [crack](/pset2/crack.c)
 - [Problem Set3: Music](/pset3)
   * [music](/pset3/music)
 - [Problem Set 4: Forensics](/pset4)
