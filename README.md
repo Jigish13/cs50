@@ -13,7 +13,7 @@ CS50x problem sets solution
       + [less comfortable](/pset1/mario/less.c)
       + [more comfortable](/pset1/mario/more.c)
 2. [Problem Set 2: Cryptography, Brute force algorithm to crack password](https://docs.cs50.net/2019/x/psets/2/index.html)
-    - [caesar](/pset2/caesar.c)
+    - [caesar](/pset2/ceasar.c)
     - [vigenere](/pset2/vigenere.c)
     - [crack](/pset2/crack.c)
 - [Problem Set3: Music](/pset3)
