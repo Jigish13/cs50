@@ -1,6 +1,9 @@
 // Program to recover JPEG's from a forensic image.
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdint.h>
+
+typedef uint8_t BYTE;
 
 int main(int argc, char *argv[])
 {
@@ -20,7 +23,7 @@ int main(int argc, char *argv[])
     }
 
     // Intializing buffer of size 512 B to store a block
-    unsigned char *buffer = malloc(sizeof(char) * 512);
+    BYTE *buffer = malloc(sizeof(BYTE) * 512);
 
     // array to store name of newly found JPEG file
     char fna[8];
@@ -49,6 +52,12 @@ int main(int argc, char *argv[])
         // found a new JPEG with distinct header
         if (buffer[0] == 0xff && buffer[1] == 0xd8 && buffer[2] == 0xff && (buffer[3] & 0xf0) == 0xe0)
         {
+            // close any open img file
+            if (img)
+            {
+                fclose(img);
+            }
+
             // it stores name of newly found JPEG in xxx.jpg fmt
             sprintf(fna, "%03i.jpg", total_images++);
 
