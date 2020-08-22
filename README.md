@@ -21,9 +21,14 @@ CS50x problem sets solution
     - [substitution](/pset2b/substitution.c)
 1. [Problem Set 3A: Forensic, Resizing an image, Recover lost images of memory card in C - Year 2019 psets](https://docs.cs50.net/2019/x/psets/3/index.html)
     - [whodunit](/pset3a/whodunit/)
-    - [resize](/pset3a/resize/)
+    - resize
+      + [less comfortable](/pset3a/resize/less.c)
+      + [more comfortable](/pset3a/resize/more.c)
     - [recover](/pset3a/recover.c)
-1. [Problem Set 3B: Year 2020 psets in C](https://cs50.harvard.edu/x/2020/psets/2/)
+1. [Problem Set 3B: Year 2020 psets in C](https://cs50.harvard.edu/x/2020/psets/4/)
+    - filter
+      + [less comfortable](/pset3b/filter/less/)
+      + [more comfortable](/pset3b/filter/more/)
     
 - [Problem Set3: Music](/pset3)
   * [music](/pset3/music)
