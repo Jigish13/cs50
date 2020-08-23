@@ -25,7 +25,7 @@ CS50x problem sets solution
       + [less comfortable](/pset3a/resize/less.c)
       + [more comfortable](/pset3a/resize/more.c)
     - [recover](/pset3a/recover.c)
-1. [Problem Set 3B: Year 2020 psets in C](https://cs50.harvard.edu/x/2020/psets/4/)
+1. [Problem Set 3B: Made Instagram Filters(Grayscale,Sepia,Blur,Reflection,Edge) Year 2020 psets in C](https://cs50.harvard.edu/x/2020/psets/4/)
     - filter
       + [less comfortable](/pset3b/filter/less/)
       + [more comfortable](/pset3b/filter/more/)
